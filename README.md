@@ -49,7 +49,7 @@ A sleek and responsive full-stack web application to **track, visualize, and bud
 
 - **Frontend:** Next.js, React, Recharts, shadcn/ui
 - **Backend:** Next.js API routes, MongoDB (via Atlas)
-- **Styling:** Global CSS (no Tailwind)
+- **Styling:** Global CSS
 - **AI:** Groq API (LLaMA 3)
 - **Deployment:** Vercel (Frontend + API)
 
