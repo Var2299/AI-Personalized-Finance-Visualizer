@@ -15,7 +15,7 @@ A sleek and responsive full-stack web application to **track, visualize, and bud
 - Set and manage budgets per category
 - Budget vs actual expense comparison
 - Smart **spending insights**
-- 🔮 AI-generated monthly financial summary and money-saving tips
+- 🔮 **AI-generated monthly financial summary and money-saving tips**
 
 ---
 
