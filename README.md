@@ -19,6 +19,30 @@ A sleek and responsive full-stack web application to **track, visualize, and bud
 
 ---
 
+![image](https://github.com/user-attachments/assets/ac3ba1d6-ce40-43ab-966b-b9d38df08928)
+
+---
+
+![image](https://github.com/user-attachments/assets/b63a4758-ae01-4731-ad78-8ebf3edea9ca)
+
+---
+
+![image](https://github.com/user-attachments/assets/5b02b356-7eda-4041-b3bd-61a4eaa15e7d)
+
+---
+
+![image](https://github.com/user-attachments/assets/86bdc576-8940-459b-9e4f-c74fe185e0e5)
+
+---
+
+![image](https://github.com/user-attachments/assets/52b632d0-9371-41dd-a164-4789354a2ef8)
+
+---
+
+![image](https://github.com/user-attachments/assets/c898c233-4e3e-431f-8e55-ba7925d09d5e)
+
+---
+
 ## 🛠 Tech Stack
 
 - **Frontend:** Next.js, React, Recharts, shadcn/ui
@@ -33,7 +57,7 @@ A sleek and responsive full-stack web application to **track, visualize, and bud
 
 ![Dashboard Screenshot](./screenshot.png)
 
-🔗 **Live Demo:** [your-vercel-url.com](https://your-vercel-url.com)
+🔗 **Live Demo:** [your-vercel-url.com](https://personal-finance-visualizer-three.vercel.app/)
 
 ---
 
