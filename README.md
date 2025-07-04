@@ -35,6 +35,8 @@ A sleek and responsive full-stack web application to **track, visualize, and bud
 
 ---
 
+### 📦 MongoDB Collection Preview
+
 ![image](https://github.com/user-attachments/assets/52b632d0-9371-41dd-a164-4789354a2ef8)
 
 ---
@@ -55,9 +57,7 @@ A sleek and responsive full-stack web application to **track, visualize, and bud
 
 ## 📸 Demo
 
-![Dashboard Screenshot](./screenshot.png)
-
-🔗 **Live Demo:** [your-vercel-url.com](https://personal-finance-visualizer-three.vercel.app/)
+🔗 **Live Demo:** [Personal Finance Visualizer](https://personal-finance-visualizer-three.vercel.app/)
 
 ---
 
