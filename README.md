@@ -2,9 +2,6 @@
 
 A sleek and responsive full-stack web application to **track, visualize, and budget personal finances** — enhanced with **AI-powered insights** using Groq API.
 
-> ⚡ Built with Next.js · React · MongoDB · Recharts · shadcn/ui  
-> ✨ Features dynamic charts, budgeting tools, and personalized money-saving advice.
-
 ---
 
 ## 🚀 Features
